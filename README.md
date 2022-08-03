@@ -2,6 +2,8 @@
 
 ![An image of a fast travel board with the travel prompt](https://github.com/DennisVidal/DayZ-Fast-Travel/blob/main/DayZ_Mod_Fast_Travel.png)
 
+<b>Note:</b> The code for this mod isn't the best and a rework is long overdue. Although I've worked on it a while ago, I haven't gotten around to finishing it yet. Once I got more information I'll update the workshop page.
+
 ## What does this mod do?
 This mod adds a fast travel system to DayZ. It allows for the placement and configuration of boards around the map through which players can fast travel to certain preconfigured locations. The configured visitable locations appear as pins on the board's map. The cost for fast traveling can be configured individually for each board and visitable location. The mod can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=1843000706 "Steam workshop page of Fast Travel").
 
