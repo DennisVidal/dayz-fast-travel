@@ -1,4 +1,4 @@
-# DayZ-Fast-Travel
+# DayZ Fast Travel
 
 ![An image of a fast travel board with the travel prompt](https://github.com/DennisVidal/DayZ-Fast-Travel/blob/main/DayZ_Mod_Fast_Travel.png)
 
