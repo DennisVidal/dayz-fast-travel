@@ -5,7 +5,7 @@
 
 This mod adds a fast travel system to DayZ with the aim of improving the player experience and giving server owners additional options to customize the gameplay of their servers. It comes with fast travel boards, which use DayZ's hiking trail boards as a base. Server owners can place these boards freely around the map to allow players to travel quickly between predefined locations if they have the required items. Locations appear as pins on the board, each with an action prompt consisting of the name of the selected location and travel cost.
 
-The mod is highly customizable and usage examples include a simple travel network between traders, a way to access hard to reach or even walled of areas with high value loot at the cost of rare items, and a more immersive replacement for UI-based spawn selection mods.
+It is highly customizable, and usage examples include a simple travel network between traders, a way to access hard-to-reach or even walled-in areas with high-value loot at the cost of rare items, and a more immersive replacement for UI-based spawn selection mods.
 
 ## Core Features
 - Fast travel boards that players can use to quickly travel between predefined locations
