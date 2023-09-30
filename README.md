@@ -8,8 +8,6 @@ This mod adds a fast travel system to DayZ with the aim of improving the player 
 The mod is highly customizable and usage examples include a simple travel network between traders, a way to access hard to reach or even walled of areas with high value loot at the cost of rare items, and a more immersive replacement for UI-based spawn selection mods.
 
 ## Core Features
-The core features of this mod include:
-
 - Fast travel boards that players can use to quickly travel between predefined locations
 - Adjustable travel cost per location and destination
 - Two variants of fast travel tickets to use as a starting point
