@@ -9,7 +9,9 @@ The mod is highly customizable and usage examples include a simple travel networ
 
 ## Core Features
 - Fast travel boards that players can use to quickly travel between predefined locations
-- Adjustable travel cost per location and destination
+- Adjustable travel costs per location and destination
+- Customizable map markers for each location
+- Varying spawn locations at a chosen destination
 - Two variants of fast travel tickets to use as a starting point
 
 ---
